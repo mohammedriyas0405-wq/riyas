@@ -1,2 +1,1 @@
-#riyas
-cse student
+CSE student
